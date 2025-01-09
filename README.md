@@ -2,7 +2,7 @@
 
 An explorations on assembling (grid) layouts on scroll.
 
-![Image](https://tympanus.net/codrops/wp-content/uploads/2024/09/onscrolllayoutformationfeat.jpg)
+![Image](https://ibb.co/mH4VXSB)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=80656)
 
