@@ -10,20 +10,16 @@ An explorations on assembling (grid) layouts on scroll.
 
 ## Installation
 
-Run this demo on a [local server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/set_up_a_local_testing_server).
-
-## Credits
-
-- Images generated with [Midjourney](https://midjourney.com)
+Run this demo on a [local server].
 
 ## Misc
 
-Follow Codrops: [X](http://www.X.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
+Follow Codrops: [X](http://www.X.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/Siphelele-Maphumulo/Maphumulo-s-Career-Gallery))
 
 ## License
-[MIT](LICENSE)
+[Thembelihle IT Solutions](LICENSE)
 
-Made with :blue_heart:  by [Codrops](http://www.codrops.com)
+Made with : Thembelihle IT Solutions:  by Siphelele A Maphumulo
 
 
 
